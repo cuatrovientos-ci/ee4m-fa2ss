@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>AF.EE4M.CICOMCourse.78aa9aec-5432-4837-a4ff-f4368db94c85</entry>
+      <entry>AF.EE4M.CICOMCourse.5b64c486-c278-4082-93b0-528dfb8e21e2</entry>
     </identifier>
     <language>en-US</language>
     <contribute>
@@ -24,14 +24,14 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-01-13</dateTime>
-        <description language="en-US"><![CDATA[1736772177468]]></description>
+        <description language="en-US"><![CDATA[1736775793098]]></description>
       </date>
     </contribute>
   </metametadata>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>AF.EE4M.CICOMCourse.78aa9aec-5432-4837-a4ff-f4368db94c85</entry>
+      <entry>AF.EE4M.CICOMCourse.5b64c486-c278-4082-93b0-528dfb8e21e2</entry>
     </identifier>
     <title>
       <string language="en-US"><![CDATA[CIC OM Course]]></string>
@@ -78,7 +78,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-01-13</dateTime>
-        <description language="en-US"><![CDATA[1736772177468]]></description>
+        <description language="en-US"><![CDATA[1736775793098]]></description>
       </date>
     </contribute>
     <contribute>
@@ -97,7 +97,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-01-13</dateTime>
-        <description language="en-US"><![CDATA[1736772177468]]></description>
+        <description language="en-US"><![CDATA[1736775793098]]></description>
       </date>
     </contribute>
     <contribute>
@@ -117,7 +117,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-01-13</dateTime>
-        <description language="en-US"><![CDATA[1736772177468]]></description>
+        <description language="en-US"><![CDATA[1736775793098]]></description>
       </date>
     </contribute>
     <contribute>
@@ -136,7 +136,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-01-13</dateTime>
-        <description language="en-US"><![CDATA[1736772177468]]></description>
+        <description language="en-US"><![CDATA[1736775793098]]></description>
       </date>
     </contribute>
   </lifeCycle>
@@ -144,7 +144,7 @@ END:VCARD  ]]></entity>
     <format>text/html</format>
     <format>application/x-javascript</format>
     <format>text/css</format>
-    <size>1815618</size>
+    <size>1815663</size>
     <location>index.html</location>
     <duration>
       <duration>PT0H0M0S</duration>
