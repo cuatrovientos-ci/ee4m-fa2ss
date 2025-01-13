@@ -1,0 +1,26 @@
+{
+  "modules": [
+    {
+      "title": "Module FA2SS-1: Efficient Wharehouse Management",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Course 1.1: Warehouse-Logistics",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.1.1: Efficient Wharehouse Management",
+              "content": {
+                "video": "https://drive.google.com/file/d/1IcH-YxEibxrnKn0XAx_lqOz-yoKF_D3N/preview",
+                "textbook": "https://drive.google.com/file/d/1gjQrUXw_ipYJ1Jb-G1sshdu2fKFG46TB/preview",
+                "exercise": "https://ee4m-cic.h5p.com/content/1292482071419140827",
+                "slides": "https://docs.google.com/presentation/d/1A_i0z10Q8Te0ZWDFTc3jZXFkdcf4AEGO/preview",
+                "quiz": "https://quizlet.com/992378675/learn/embed?i=13hssg&x=1jj1"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
