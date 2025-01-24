@@ -11,13 +11,20 @@
               "id": 1,
               "title": "Unit 1.1.1: Introducción a la Gestión eficiente del almacén",
               "content": {
+                "video": "https://drive.google.com/file/d/1C7h-nCHMeMDB7A0NAloPpumi2iTLQVRd/preview"              
+              }
+            },  
+            {
+              "id": 2,
+              "title": "Unit 1.1.2: Gestión eficiente del almacén",
+              "content": {
                 "video": "https://drive.google.com/file/d/1IcH-YxEibxrnKn0XAx_lqOz-yoKF_D3N/preview",
                 "exercise": "https://ee4m-cic.h5p.com/content/1292482071419140827/embed",
                 "textbook": "https://drive.google.com/file/d/1gjQrUXw_ipYJ1Jb-G1sshdu2fKFG46TB/preview",
                 "slides": "https://docs.google.com/presentation/d/1A_i0z10Q8Te0ZWDFTc3jZXFkdcf4AEGO/preview",
                 "quiz": "https://quizlet.com/992378675/learn/embed?i=13hssg&x=1jj1"
               }
-            },           
+            },          
             {
               "id": 3,
               "title": "Unit 1.1.3: Caso práctico",
