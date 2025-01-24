@@ -1,15 +1,15 @@
 {
   "modules": [
     {
-      "title": "Module FA2SS-1: Efficient Wharehouse Management",
+      "title": "Module FA2SS-1: Gestión eficiente del almacén",
       "courses": [
         {
           "id": 1,
-          "title": "Course 1.1: Warehouse-Logistics",
+          "title": "Course 1.1: Introducción a la Gestión eficiente del almacén",
           "units": [
             {
               "id": 1,
-              "title": "Unit 1.1.1: Introduction to Efficient Wharehouse Management",
+              "title": "Unit 1.1.1: Introducción a la Gestión eficiente del almacén",
               "content": {
                 "video": "https://drive.google.com/file/d/1IcH-YxEibxrnKn0XAx_lqOz-yoKF_D3N/preview",
                 "exercise": "https://ee4m-cic.h5p.com/content/1292482071419140827/embed",
@@ -17,21 +17,61 @@
                 "slides": "https://docs.google.com/presentation/d/1A_i0z10Q8Te0ZWDFTc3jZXFkdcf4AEGO/preview",
                 "quiz": "https://quizlet.com/992378675/learn/embed?i=13hssg&x=1jj1"
               }
-            },
+            },           
             {
-              "id": 2,
-              "title": "Unit 1.1.2: Lean Operations",
+              "id": 3,
+              "title": "Unit 1.1.3: Caso práctico",
+              "content": {
+                "video": "https://www.youtube.com/embed/nFu4FFgbMY4",
+                "exercise": "https://drive.google.com/file/d/1AahjYQ52uB-BPn8MqebKKDz4pEyAwqLQ/preview"
+              }
+            }
+          ]
+        }, {
+          "id": 2,
+          "title": "Course 1.2: Lean Manufacturing",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.2.1: Operaciones Lean",
               "content": {
                 "video": "https://drive.google.com/file/d/1AgLTl8FTiW7pUamH0k8cWv2rv50HIJ2L/preview",
                 "slides": "https://docs.google.com/presentation/d/1Ad233a-F9Ci88PHYCrMSFLVOAMe0RFEv/preview"
               }
             },
             {
-              "id": 3,
-              "title": "Unit 1.1.3: Use case study",
+              "id": 2,
+              "title": "Unit 1.2.2: Metodología 5S",
               "content": {
-                "video": "https://www.youtube.com/embed/nFu4FFgbMY4",
-                "exercise": "https://drive.google.com/file/d/1AahjYQ52uB-BPn8MqebKKDz4pEyAwqLQ/preview"
+                "video": "https://drive.google.com/file/d/1C1Y9FApg9Nf771u6iZ_3Y8e_3ayIRYsi/preview",
+                "slides": "https://docs.google.com/presentation/d/1BsY25wR26--mtATxiYsE5VD66ENXyN4c/preview"
+              }
+            }
+          ]
+        }
+        , {
+          "id": 3,
+          "title": "Course 1.3: Gestión de riesgos",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.3.1: Gestión de riesgos",
+              "content": {
+                "textbook": "https://drive.google.com/file/d/1BxuCSLy4jszm3gs7h2m2V8V0bIH5TlwS/preview"
+              }
+            }
+          ]
+        }
+        , {
+          "id": 3,
+          "title": "Course 1.4: Definición de KPIs",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.3.1: Defining KPIs",
+              "content": {
+                "slides": "hhttps://docs.google.com/presentation/d/1C-85Dfi620eETPXuOCusMVcrDUuqoiX9/preview",
+                "video": "https://drive.google.com/file/d/1C1zloCEJc9AuEgi7PlqKA9noet3z4Lsv/preview"
               }
             }
           ]
