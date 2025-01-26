@@ -24,8 +24,7 @@ You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
 
 {% assign files = site.static_files  %}
 
-if files.length > 0
-
+{% if files.length > 0 %}
 
 The theoretical contents of the course are shown below.
 
@@ -35,6 +34,7 @@ The theoretical contents of the course are shown below.
 {% endif %}
 {% endfor %}
   
-end
+{% endif %}
+
 
 
