@@ -7,12 +7,10 @@ layout: page
 
 {{ page.title }}
 
-## Preview
 
 You can have a look here
 [preview](logistics-and-supply-management/fa2ss-2-applied-logistics-for-the-supply-chain/preview/index.html)
 
-## SCORM
 
 You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
 
@@ -28,7 +26,6 @@ You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
 
 if files.length > 0
 
-## Content
 
 The theoretical contents of the course are shown below.
 

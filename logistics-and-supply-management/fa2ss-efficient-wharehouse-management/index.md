@@ -7,12 +7,9 @@ layout: page
 
 {{ page.title }}
 
-## Preview
 
 You can have a look here
 [preview](logistics-and-supply-management/fa2ss-efficient-wharehouse-management/preview/index.html)
-
-## SCORM
 
 You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
 
@@ -26,8 +23,6 @@ You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
 {% assign files = site.static_files  %}
 
 {% if files.length > 0 %}
-
-## Content
 
 The theoretical contents of the course are shown below.
 
