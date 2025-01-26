@@ -5,6 +5,8 @@ permalink: "fa2ss-2-applied-logistics-for-the-supply-chain.html"
 layout: page
 ---
 
+# {{ title }}
+
 ## Preview
 
 You can have a look here

@@ -5,6 +5,8 @@ permalink: "fa2ss-efficient-wharehouse-management.html"
 layout: page
 ---
 
+# {{ title }}
+
 ## Preview
 
 You can have a look here
