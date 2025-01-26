@@ -1,0 +1,23 @@
+{
+    "modules": [
+      {
+        "title": "Module FA2SS-2: Logística aplicada a la cadena de suministro",
+        "courses": [
+          {
+            "id": 1,
+            "title": "Course 2.1: Introducción a la Logística aplicada a la cadena de suministro",
+            "units": [
+              {
+                "id": 1,
+                "title": "Unit 2.1.1: Introducción a la Gestión eficiente del almacén",
+                "content": {
+                  "video": "https://drive.google.com/file/d/****/preview"              
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
