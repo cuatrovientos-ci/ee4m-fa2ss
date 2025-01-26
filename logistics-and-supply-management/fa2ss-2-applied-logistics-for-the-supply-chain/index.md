@@ -5,7 +5,7 @@ permalink: "fa2ss-2-applied-logistics-for-the-supply-chain.html"
 layout: page
 ---
 
-{{ title }}
+{{ page.title }}
 
 ## Preview
 
