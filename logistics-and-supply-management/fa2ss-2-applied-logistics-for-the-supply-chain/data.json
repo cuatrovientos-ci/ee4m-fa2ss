@@ -9,9 +9,79 @@
             "units": [
               {
                 "id": 1,
-                "title": "Unit 2.1.1: Introducción a la Gestión eficiente del almacén",
+                "title": "Unit 2.1.1: ¿Qué vas a aprender?",
                 "content": {
-                  "video": "https://drive.google.com/file/d/****/preview"              
+                  "video": "https://drive.google.com/file/d/16wNRR11wTkmrsJQwLlXm1BWz02cKJb_s/preview"              
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Course 2.2: Logística de suministro",
+            "units": [
+              {
+                "id": 1,
+                "title": "Unit 2.2.1: Logística de suministro",
+                "content": {
+                  "video": "https://drive.google.com/file/d/176wJV_hlvSK5o803vxf4Pxv3VISgBo3u/preview"  ,
+                  "textbook": "https://drive.google.com/file/d/1I7ABY56bq7kCieCdRndMrgLmFYGbqf8Q/preview",
+                  "slides": "https://docs.google.com/presentation/d/1CJ-LL0ExeO3Aq4FF_1onYQG1fz5p3hNn/preview",
+                  "exercise": "https://ee4m-cic.h5p.com/content/1292491646923902457/embed"
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Course 2.3: Logística de almacenamiento",
+            "units": [
+              {
+                "id": 1,
+                "title": "Unit 2.3.1: Introducción a la logística de almacenamiento",
+                "content": {
+                  "textbook": "https://drive.google.com/file/d/16P2tZVGDud8g3qVfpHJKfyQoHuDnPqAV/preview"
+                }
+              },
+              {
+                "id": 2,
+                "title": "Unit 2.3.2: Organización del proceso de transporte",
+                "content": {
+                  "video": "https://drive.google.com/file/d/16XonaYniyQ6GZ9gSS_2ZAWj2_QZbiXs_/preview",
+                  "slides": "https://docs.google.com/presentation/d/166kYuHasV4du4DRttGumsII_sRKCyMyS/preview",
+                  "exercise": "https://ee4m-cic.h5p.com/content/1292493269818705417/embed"
+                }
+              },
+              {
+                "id": 3,
+                "title": "Unit 2.3.3: Proveedores de servicios en el mercado del transporte",
+                "content": {
+                  "video": "https://drive.google.com/file/d/16aSUWJJgEuonLhPW8NeTXkyK5EgKKGpa/preview",
+                  "slides": "https://docs.google.com/presentation/d/16077BHGz5FmGi4YxK0JOQ2RthKe8HHBA/preview"
+                }
+              },
+              {
+                "id": 4,
+                "title": "Unit 2.3.4: Acuerdos con proveedores de servicios de envío y expedición",
+                "content": {
+                  "video": "https://drive.google.com/file/d/16UNWq91qYH4pdyfO4_5rw9c4SxHITQ4l/preview",
+                  "slides": "https://docs.google.com/presentation/d/15wEHXhVnbeW8A-GkgN0KYrHpUIIbPUdB/preview"
+                }
+              } ,
+              {
+                "id": 5,
+                "title": "Unit 2.3.5: Planificación del proceso de transporte",
+                "content": {
+                  "video": "https://drive.google.com/file/d/16cEmso0qgFFwea2Cf8VIG-RmL4FmwxqJ/preview",
+                  "slides": "https://docs.google.com/presentation/d/15wAkOPKUWNT4PMN97IkVmJWndr_45f1e/preview"
+                }
+              } ,
+              {
+                "id": 6,
+                "title": "Unit 2.3.6: Indicadores y medidores de transporte",
+                "content": {
+                  "video": "https://drive.google.com/file/d/16YcThbph4YxfEezdmzAu40sZ1hsbGP1I/preview",
+                  "slides": "https://docs.google.com/presentation/d/15wDjSOwv9dDaYdAHALhbj06n6imF09_7/preview"
                 }
               }
             ]
