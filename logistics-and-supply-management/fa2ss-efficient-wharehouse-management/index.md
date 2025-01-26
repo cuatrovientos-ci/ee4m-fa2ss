@@ -5,7 +5,7 @@ permalink: "fa2ss-efficient-wharehouse-management.html"
 layout: page
 ---
 
-# {{ title }}
+{{ title }}
 
 ## Preview
 
@@ -23,14 +23,20 @@ You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
 {% endif %}
 {% endfor %}
 
+{% assign files = site.static_files  %}
+
+if files.length > 0
+
 ## Content
 
 The theoretical contents of the course are shown below.
-
-{% assign files = site.static_files  %}
 
 {% for file in files   %}
 {% if file.path contains page.slug and file.path contains  'pdf' %}
 [{{ file.basename }}]( {{  site.baseurl }}{{ file.path }})
 {% endif %}
 {% endfor %}
+  
+end
+
+
