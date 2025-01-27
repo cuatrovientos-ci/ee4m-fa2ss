@@ -16,20 +16,7 @@ layout: page
 - Competencias organizativas: Necesarias para implantar un programa 5S y mantener un entorno de almacén organizado, eficiente y eficaz.
 
 
-## Cursos
-
-### Introducción a la Gestión eficiente del almacén
-Este curso se centra en la aplicación de los principios Lean Six Sigma, concretamente el programa 5S, para mejorar la eficiencia y la organización en el entorno del almacén. Los participantes aprenderán a realizar evaluaciones exhaustivas de la gestión de riesgos en el almacén, garantizando la seguridad y el cumplimiento de la normativa.
-
-
- El curso comienza con una exploración de la metodología 5S (Clasificar, Ordenar, Abrillantar, Estandarizar, Mantener), una herramienta Lean Six Sigma que mejora la organización y la eficiencia en el entorno del almacén. Los participantes aprenderán a realizar evaluaciones exhaustivas de la gestión de riesgos en el almacén, identificando peligros potenciales y aplicando estrategias para garantizar la seguridad y el cumplimiento de las normas. El curso también cubre la definición e implementación de Indicadores Clave de Rendimiento (KPI), centrándose en las métricas que impulsan la eficiencia, la precisión y la productividad en las operaciones de almacén. **TODO:** _Además, los participantes estudiarán la selección e implantación de sistemas de gestión de almacenes (SGA) y otras soluciones informáticas, que son cruciales para automatizar procesos, mejorar la gestión de inventarios y potenciar el cumplimiento de pedidos._
-
-*Resultados previstos del aprendizaje (OIT)*
-- Implantar Lean Six Sigma y 5S en las operaciones de almacén
-- Desarrollar y utilizar indicadores clave de rendimiento **TODO** _y sistemas informáticos para la optimización de almacenes_
-
 ----
-
 > Puedes dar un vistazo aquí [previsualización](logistics-and-supply-management/fa2ss-efficient-wharehouse-management/preview/index.html)
 
 Puedes descargar el paquete SCORM para ser integrado en LMS, e.g. Moodle.
@@ -50,5 +37,18 @@ A continuación se exponen los contenidos teóricos del curso.
 {% endfor %}
   
 {% endif %}
+
+## Cursos
+
+### Introducción a la Gestión eficiente del almacén
+Este curso se centra en la aplicación de los principios Lean Six Sigma, concretamente el programa 5S, para mejorar la eficiencia y la organización en el entorno del almacén. Los participantes aprenderán a realizar evaluaciones exhaustivas de la gestión de riesgos en el almacén, garantizando la seguridad y el cumplimiento de la normativa.
+
+
+ El curso comienza con una exploración de la metodología 5S (Clasificar, Ordenar, Abrillantar, Estandarizar, Mantener), una herramienta Lean Six Sigma que mejora la organización y la eficiencia en el entorno del almacén. Los participantes aprenderán a realizar evaluaciones exhaustivas de la gestión de riesgos en el almacén, identificando peligros potenciales y aplicando estrategias para garantizar la seguridad y el cumplimiento de las normas. El curso también cubre la definición e implementación de Indicadores Clave de Rendimiento (KPI), centrándose en las métricas que impulsan la eficiencia, la precisión y la productividad en las operaciones de almacén. **TODO:** _Además, los participantes estudiarán la selección e implantación de sistemas de gestión de almacenes (SGA) y otras soluciones informáticas, que son cruciales para automatizar procesos, mejorar la gestión de inventarios y potenciar el cumplimiento de pedidos._
+
+*Resultados previstos del aprendizaje (OIT)*
+- Implantar Lean Six Sigma y 5S en las operaciones de almacén
+- Desarrollar y utilizar indicadores clave de rendimiento **TODO** _y sistemas informáticos para la optimización de almacenes_
+
 
 
