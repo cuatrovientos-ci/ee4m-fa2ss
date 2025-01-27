@@ -15,7 +15,6 @@ layout: page
 - Planificación estratégica sostenible y competencias técnicas		
 - Habilidades de resolución de problemas		
 
-
 ----
 > Puedes dar un vistazo aquí [previsualización](logistics-and-supply-management/fa2ss-2-applied-logistics-for-the-supply-chain/preview/index.html)
 
