@@ -1,5 +1,5 @@
 ---
-title: "FA2SS-1-Efficient Wharehouse Management"
+title: "Gestión eficiente del almacén"
 slug: "fa2ss-efficient-wharehouse-management"
 permalink: "fa2ss-efficient-wharehouse-management.html"
 layout: page

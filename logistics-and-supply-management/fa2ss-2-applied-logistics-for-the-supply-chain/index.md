@@ -1,5 +1,5 @@
 ---
-title: "FA2SS-2-Applied Logistics for supply chain"
+title: "Logística aplicada a la cadena de suministro"
 slug: "fa2ss-2-applied-logistics-for-the-supply-chain"
 permalink: "fa2ss-2-applied-logistics-for-the-supply-chain.html"
 layout: page
