@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>AF.EE4M.CICOMCourse.63e74f98-fbce-40c8-aefa-48c66f0948fa</entry>
+      <entry>AF.EE4M.CICOMCourse.616ddb9d-abc1-4ae0-9d2e-f30b1fa9a607</entry>
     </identifier>
     <language>en-US</language>
     <contribute>
@@ -23,15 +23,15 @@ EMAIL;PREF;INTERNET:ander_frago@cuatrovientos.org
 URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
-        <dateTime>2025-01-26</dateTime>
-        <description language="en-US"><![CDATA[1737922412467]]></description>
+        <dateTime>2025-01-27</dateTime>
+        <description language="en-US"><![CDATA[1737976171801]]></description>
       </date>
     </contribute>
   </metametadata>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>AF.EE4M.CICOMCourse.63e74f98-fbce-40c8-aefa-48c66f0948fa</entry>
+      <entry>AF.EE4M.CICOMCourse.616ddb9d-abc1-4ae0-9d2e-f30b1fa9a607</entry>
     </identifier>
     <title>
       <string language="en-US"><![CDATA[CIC OM Course]]></string>
@@ -77,8 +77,8 @@ EMAIL;PREF;INTERNET:ander_frago@cuatrovientos.org
 URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
-        <dateTime>2025-01-26</dateTime>
-        <description language="en-US"><![CDATA[1737922412467]]></description>
+        <dateTime>2025-01-27</dateTime>
+        <description language="en-US"><![CDATA[1737976171801]]></description>
       </date>
     </contribute>
     <contribute>
@@ -96,8 +96,8 @@ EMAIL;PREF;INTERNET:ander_frago@cuatrovientos.org
 URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
-        <dateTime>2025-01-26</dateTime>
-        <description language="en-US"><![CDATA[1737922412467]]></description>
+        <dateTime>2025-01-27</dateTime>
+        <description language="en-US"><![CDATA[1737976171801]]></description>
       </date>
     </contribute>
     <contribute>
@@ -116,8 +116,8 @@ EMAIL;PREF;INTERNET:ander_frago@cuatrovientos.org
 URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
-        <dateTime>2025-01-26</dateTime>
-        <description language="en-US"><![CDATA[1737922412467]]></description>
+        <dateTime>2025-01-27</dateTime>
+        <description language="en-US"><![CDATA[1737976171801]]></description>
       </date>
     </contribute>
     <contribute>
@@ -135,8 +135,8 @@ EMAIL;PREF;INTERNET:ander_frago@cuatrovientos.org
 URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
-        <dateTime>2025-01-26</dateTime>
-        <description language="en-US"><![CDATA[1737922412467]]></description>
+        <dateTime>2025-01-27</dateTime>
+        <description language="en-US"><![CDATA[1737976171801]]></description>
       </date>
     </contribute>
   </lifeCycle>
@@ -144,7 +144,7 @@ END:VCARD  ]]></entity>
     <format>text/html</format>
     <format>application/x-javascript</format>
     <format>text/css</format>
-    <size>1815717</size>
+    <size/>
     <location>index.html</location>
     <duration>
       <duration>PT0H0M0S</duration>
