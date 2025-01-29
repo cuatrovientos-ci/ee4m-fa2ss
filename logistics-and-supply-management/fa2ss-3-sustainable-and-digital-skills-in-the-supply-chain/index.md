@@ -1,68 +1,58 @@
 ---
-title: "Habilidades sostenibles y digitales en la cadena de suministro"
-slug: "fa2ss-3-sustainable-and-digital-skills-in-the-supply-chain"
-permalink: "fa2ss-3-sustainable-and-digital-skills-in-the-supply-chain.html"
+title: “Sustainable and digital skills in the supply-chain”
+slug: “fa2ss-3-sustainable-and-digital-skills-in-the-supply-chain”
+permalink: “fa2ss-3-sustainable-and-digital-skills-in-the-supply-chain.html”
 layout: page
 ---
 
-# Habilidades sostenibles y digitales en la cadena de suministro		
+# sustainable-and-digital-skills-in-the-supply-chain.
 
-**DESCRIPCIÓN**: 
-El módulo dota a los alumnos de los conocimientos esenciales para mejorar las operaciones de la cadena de suministro mediante prácticas sostenibles y tecnologías digitales. Abarca la logística de suministros, centrándose en la selección e implantación de sistemas de tecnología de la información como los sistemas de planificación avanzada (APS) y los sistemas de planificación de recursos empresariales (ERP), para mejorar la planificación y la programación. En logística de almacenes, el módulo aborda el uso de sistemas de gestión del transporte (TMS), estrategias de optimización de costes, programas de salud y seguridad, y la integración de la automatización y los sistemas de almacenamiento adecuados para impulsar la eficiencia y la sostenibilidad.
+**DESCRIPTION**:
+The module equips students with the essential skills to improve supply chain operations through sustainable practices and digital technologies. It covers supply logistics, focusing on the selection and implementation of information technology systems such as advanced planning systems (APS) and enterprise resource planning (ERP) systems to improve planning and scheduling. In warehouse logistics, the module addresses the use of transportation management systems (TMS), cost optimization strategies, health and safety programs, and the integration of automation and appropriate warehousing systems to drive efficiency and sustainability.
 
-**COMPETENCIAS**
-- Competencias en sostenibilidad		
-- Experiencia digital		
-- Capacidades tecnológicas		
-- Habilidades de resolución de problemas		
+**COMPETENCIES**
 
-----
-> Puedes dar un vistazo aquí [previsualización](logistics-and-supply-management/fa2ss-3-sustainable-and-digital-skills-in-the-supply-chain/preview/index.html)
+- Sustainability Competencies
+- Digital expertise
+- Technology skills
+- Problem solving skills
 
-Puedes descargar el paquete SCORM para ser integrado en LMS, e.g. Moodle.
-{% assign files = site.static_files  %}
-{% for file in files   %}
-{% if file.path contains page.slug and file.path contains  'zip' %}
-[{{ file.basename }}]( {{  site.baseurl }}{{ file.path }})
+---
+
+> You can have a look here [preview](logistics-and-supply-management/fa2ss-3-sustainable-and-digital-skills-in-the-supply-chain/preview/index.html)
+
+You can download the SCORM package to be integrated into LMS, e.g. Moodle.
+{% assign files = site.static_files %}
+{% for file in files %}
+{% if file.path contains page.slug and file.path contains 'zip' %}
+[ {{ file.basename }}]( {{ site.baseurl }}{{ file.path }})
 {% endif %}
 {% endfor %}
 
-{% assign files = site.static_files  %}
+{% assign files = site.static_files %}
 {% if files.length > 0 %}
-A continuación se exponen los contenidos teóricos del curso.
-{% for file in files   %}
-{% if file.path contains page.slug and file.path contains  'pdf' %}
-[{{ file.basename }}]( {{  site.baseurl }}{{ file.path }})
+The following are the theoretical contents of the course.
+{% for file in files %}
+{% if file.path contains page.slug and file.path contains 'pdf' %}
+[ {{ file.basename }}]( {{ site.baseurl }}{{ file.path }})
 {% endif %}
-{% endfor %}
-  
 {% endif %}
 
-## Cursos
+{% endif %}
 
-### Logística de aprovisionamiento
+## Courses
 
-El curso está diseñado para proporcionar a los alumnos una comprensión exhaustiva de cómo seleccionar e implementar Sistemas de Tecnología de la Información (ITS) adecuados para mejorar la eficiencia de la cadena de suministro. 
+### Procurement Logistics
 
-El curso comienza con una introducción a los conceptos fundamentales de la logística de suministro y el papel de los sistemas de tecnología de la información en las cadenas de suministro modernas. Ofrece una visión general de los sistemas ERP, destacando sus capacidades para integrar diversos procesos empresariales. Los alumnos explorarán los sistemas avanzados de planificación y programación, comprendiendo cómo estas herramientas pueden mejorar la toma de decisiones y la asignación de recursos. El curso también cubre el proceso de selección de ERP y APS, guiando a los alumnos sobre cómo evaluar y elegir los sistemas adecuados para sus necesidades organizativas. Por último, se profundiza en la fase de implantación, ofreciendo información sobre las mejores prácticas para desplegar estos sistemas con eficacia y lograr los resultados deseados.
+The course is designed to provide students with a comprehensive understanding of how to select and implement appropriate Information Technology Systems (ITS) to improve supply chain efficiency.
 
-*Resultados previstos del aprendizaje (OIT)*
+The course begins with an introduction to the fundamental concepts of supply logistics and the role of information technology systems in modern supply chains. It provides an overview of ERP systems, highlighting their capabilities to integrate various business processes. Students will explore advanced planning and scheduling systems, understanding how these tools can improve decision making and resource allocation. The course also covers the ERP and APS selection process, guiding students on how to evaluate and choose the right systems for their organizational needs. Finally, it delves into the implementation phase, providing information on best practices for deploying these systems effectively and achieving the desired results.
 
-- Competencia en la selección de soluciones ITS
-- Experiencia en la implantación de ERP y APS
+_Expected Learning Outcomes (ILOs)_.
 
-### Logística de almacenamiento
+- Competence in the selection of ITS solutions
+- Experience in ERP and APS implementation.
 
-Este curso se centra en el uso estratégico de la tecnología y las mejores prácticas para gestionar el transporte, reducir costes, garantizar la seguridad y mejorar la recepción de mercancías de los proveedores.
+### Warehouse Logistics
 
-El curso comienza con una exploración de los sistemas informáticos de apoyo a la gestión del transporte, concretamente los sistemas de gestión del transporte (TMS), incluida una revisión de sus funcionalidades y del proceso de implantación. A continuación, se profundiza en las estrategias para optimizar los costes de almacén, abarcando áreas clave como las operaciones de recepción, almacenamiento y preparación de pedidos, así como el papel de la automatización y los sistemas de vehículos autónomos en la mejora de la eficiencia. Los alumnos también aprenderán a implantar un programa integral de salud y seguridad, utilizando técnicas de autoevaluación, métodos de observación y comprendiendo los sistemas de gasto energético. Por último, el curso aborda métodos para mejorar la recepción de mercancías de los proveedores, garantizando la precisión y la eficiencia en la cadena de suministro.
-
-*Resultados previstos del aprendizaje (OIT)*
-
-- Capacidad para optimizar las operaciones de almacén
-- Competencia en la aplicación de la salud y la seguridad
-
-
-### _TODO_ Sostenibilidad
-
-### _TODO_ ERP
+This course focuses on the strategic use of technology and best practices to manage transportation, reduce costs, ensure safety and improve the receipt of goods from suppliers.

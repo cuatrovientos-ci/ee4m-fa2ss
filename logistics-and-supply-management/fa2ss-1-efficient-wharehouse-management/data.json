@@ -1,0 +1,90 @@
+{
+  "modules": [
+    {
+      "title": "Module FA2SS-1: Efficient warehouse management",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Course 1.1: Introduction to Efficient Warehouse Management",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.1.1: What will you learn?",
+              "content": {
+                "video": "https://drive.google.com/file/d/1BP4FN29G1CNRjh9PMH1eWKyDuilP0MUe//preview"
+              }
+            },
+            {
+              "id": 2,
+              "title": "Unit 1.1.2: Efficient warehouse management",
+              "content": {
+                "video": "https://drive.google.com/file/d/1BHaV7Rw2jkgzLHLuwRlRBH_WzP_UT9IU/preview",
+                "exercise": "https://ee4m-cic.h5p.com/content/1292488199770683787/embed",
+                "textbook": "https://drive.google.com/file/d/1BNf3W_t6k_RBOAv9T0DaUxK1Cb-UrQdh/preview",
+                "slides": "https://docs.google.com/presentation/d/1AKTSlCeXyMhyGYaeGK93989whlRnhpuy/preview",
+                "quiz": "https://quizlet.com/992360264/match/embed?i=13hssg&x=1jj1"
+              }
+            },
+            {
+              "id": 3,
+              "title": "Unit 1.1.3: Case study",
+              "content": {
+                "video": "https://www.youtube.com/embed/nFu4FFgbMY4",
+                "exercise": "https://drive.google.com/file/d/1AahjYQ52uB-BPn8MqebKKDz4pEyAwqLQ/preview"
+              }
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Course 1.2: Lean Manufacturing",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.2.1: Lean Operations",
+              "content": {
+                "video": "https://drive.google.com/file/d/1BR0eXbXHvDDnyPcaxodgpH6qHNvu5ENs/preview",
+                "slides": "https://docs.google.com/presentation/d/1AeLJHGTzNvrG0WZkMGA__YL1nm9zoGLk/preview"
+              }
+            },
+            {
+              "id": 2,
+              "title": "Unit 1.2.2: 5S Methodology",
+              "content": {
+                "video": "https://drive.google.com/file/d/1C0AsR7ymlP-7gbxmrHfSc4NyZeus6pUi/preview",
+                "slides": "https://docs.google.com/presentation/d/1BkUtxHi8fTiXFBMchrIGvRwVhcEg4Ez_/preview"
+              }
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Course 1.3: Supply chain risk management",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.3.1: Risk management",
+              "content": {
+                "textbook": "https://drive.google.com/file/d/1BKbR0YobzwNJ0H6crbcjFkckL4bfxHOm/preview"
+              }
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Course 1.4: Defining KPIs",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.3.1: Defining KPIs",
+              "content": {
+                "slides": "https://docs.google.com/presentation/d/1BHBivJ9nRQo0_V4YcCUvirke_yGcce3w/preview",
+                "video": "https://drive.google.com/file/d/1BImkd4HNHsAuz67w0a-cmaQyh8AcVDv0/preview"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

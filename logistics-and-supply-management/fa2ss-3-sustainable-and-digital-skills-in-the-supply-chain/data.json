@@ -1,50 +1,50 @@
 {
-    "modules": [
-      {
-        "title": "Module FA2SS-3: Competencias sostenibles y digitales en la cadena de suministro",
-        "courses": [
-          {
-            "id": 1,
-            "title": "Course 3.1: Introducción a la Competencias sostenibles y digitales en la cadena de suministro",
-            "units": [
-              {
-                "id": 1,
-                "title": "Unit 3.1.1: ¿Qué vas a aprender?",
-                "content": {
-                  "video": "https://drive.google.com/file/d/1FM9Iup3pcRZwEoGP0fsAxwZE66MbnA2j/preview"              
-                }
+  "modules": [
+    {
+      "title": "Module FA2SS-3: Sustainable and digital competencies in the supply chain",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Course 3.1: Introduction to Sustainable and Digital Competencies in the Supply Chain",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 3.1.1: What will you learn?",
+              "content": {
+                "video": "https://drive.google.com/file/d/12xLgI6V4ftDSe6qXJwVKhkVIEL0TOZkv/preview"
               }
-            ]
-          }, {
-            "id": 2,
-            "title": "Course 3.2: Sistemas Informáticos en la Cadena de Suministro",
-            "units": [
-              {
-                "id": 1,
-                "title": "Unit 3.2.1: Selecciona y aplica sistemas informáticos adecuados",
-                "content": {
-                  "video": "https://drive.google.com/file/d/1CiHUTAt87XV_XjpkiXCh6MsBuZA9azCi/preview",
-                  "slides": "https://docs.google.com/presentation/d/1CbppAmZJiNgL7rHTXO-Aw_lCdbUmS61C/preview"
-                }
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Course 3.2: Information Systems in the Supply Chain",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 3.2.1: Selects and applies appropriate computer systems",
+              "content": {
+                "video": "https://drive.google.com/file/d/1CiA-nF0qTqPNlf4p9jGw88rzLoCNNzMV/preview",
+                "slides": "https://docs.google.com/presentation/d/1CQBByrhrLAbg1XBxdrPaS-tSqjWfzcV-/preview"
               }
-            ]
-          }
-          , {
-            "id": 3,
-            "title": "Course 3.3: Gestión Digital de Transporte y Almacenes",
-            "units": [
-              {
-                "id": 1,
-                "title": "Unit 3.3.1: Sistemas de Gestión de Transporte y Sistemas de Gestión de Almacenes",
-                "content": {
-                  "video": "https://drive.google.com/file/d/1ClIp4NDMiFUpaStMvYjZDPdCuKAD76jg/preview",
-                  "slides": "https://docs.google.com/presentation/d/1Cgr0gKQ5yJOQ3YfufQ0sjU3NzEUdy9lx/preview"
-                }
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Course 3.3: Digital Transportation and Warehouse Management",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 3.3.1: Transportation Management Systems and Warehouse Management Systems",
+              "content": {
+                "video": "https://drive.google.com/file/d/1CjNukvqfvgNyRDv9XPMdB06b0IV1qPw7/preview",
+                "slides": "https://docs.google.com/presentation/d/1Cdcq9utJdnkT5FWfYAZNlMwd7APlc9jq/preview"
               }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
