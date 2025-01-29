@@ -36,7 +36,7 @@ The following are the theoretical contents of the course.
 {% if file.path contains page.slug and file.path contains 'pdf' %}
 [ {{ file.basename }}]( {{ site.baseurl }}{{ file.path }})
 {% endif %}
-{% endif %}
+{% endfor %}
 
 {% endif %}
 
