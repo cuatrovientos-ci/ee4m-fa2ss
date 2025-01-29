@@ -1,7 +1,7 @@
 ---
-title: “Sustainable and digital skills in the supply-chain”
-slug: “fa2ss-3-sustainable-and-digital-skills-in-the-supply-chain”
-permalink: “fa2ss-3-sustainable-and-digital-skills-in-the-supply-chain.html”
+title: "Sustainable and digital skills in the supply-chain"
+slug: "fa2ss-3-sustainable-and-digital-skills-in-the-supply-chain"
+permalink: "fa2ss-3-sustainable-and-digital-skills-in-the-supply-chain.html"
 layout: page
 ---
 

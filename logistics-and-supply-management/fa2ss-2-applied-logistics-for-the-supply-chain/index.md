@@ -1,7 +1,7 @@
 ---
-title: “Applied Logistics for the Supply Chain”
-slug: “fa2ss-2-applied-logistics-for-the-supply-chain”
-permalink: “fa2ss-2-applied-logistics-for-the-supply-chain.html”
+title: "Applied Logistics for the Supply Chain"
+slug: "fa2ss-2-applied-logistics-for-the-supply-chain"
+permalink: "fa2ss-2-applied-logistics-for-the-supply-chain.html"
 layout: page
 ---
 

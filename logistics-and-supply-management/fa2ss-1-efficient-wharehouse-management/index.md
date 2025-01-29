@@ -1,7 +1,7 @@
 ---
-title: “Efficient Warehouse Management”
-slug: “fa2ss-efficient-wharehouse-management”
-permalink: “fa2ss-efficient-wharehouse-management.html”
+title: "Efficient Warehouse Management"
+slug: "fa2ss-efficient-wharehouse-management"
+permalink: "fa2ss-efficient-wharehouse-management.html"
 layout: page
 ---
 
