@@ -34,11 +34,11 @@
           },
           {
             "id": 3,
-            "title": "Course 2.3: Logística de almacenamiento",
+            "title": "Course 2.3: Almacenamiento y logistíca del transporte",
             "units": [
               {
                 "id": 1,
-                "title": "Unit 2.3.1: Introducción a la logística de almacenamiento",
+                "title": "Unit 2.3.1: Introducción al Almacenamiento y logistíca del transporte",
                 "content": {
                   "textbook": "https://drive.google.com/file/d/16P2tZVGDud8g3qVfpHJKfyQoHuDnPqAV/preview"
                 }
