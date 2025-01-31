@@ -10,7 +10,7 @@ This training concept provides students with a comprehensive understanding of ma
 - General knowledge of spreadsheet applications or basic office automation skills.
 - Familiarity with environmental concepts or digital tools will be beneficial but not mandatory.
 
-\*\*PREVIOUS COMPETENCIES:
+**PREVIOUS COMPETENCIES:**
 
 - Ability to innovate and problem solve.
 - Knowledge of sustainability principles
@@ -18,7 +18,6 @@ This training concept provides students with a comprehensive understanding of ma
 
 ## Modules
 
-1. Efficient warehouse management
-2. Applied Supply Chain Logistics
-3. Sustainable and Digital Competencies in the Supply Chain
-4. Cost efficiency in logistics and supply chain.
+1. Basics in Sustainable and Innovative Purchasing
+2. Efficient and Digital Logistics
+3. Fundamentals in Logistics Engineering

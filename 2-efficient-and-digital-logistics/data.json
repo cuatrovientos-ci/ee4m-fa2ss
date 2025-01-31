@@ -1,0 +1,139 @@
+{
+  "modules": [
+    {
+      "title": "Module FA2SS-2: Efficient and Digital Logistics",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Course 2.1: Efficient warehouse management",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 2.1.1: What will you learn?",
+              "content": {
+                "video": "https://drive.google.com/file/d/1BP4FN29G1CNRjh9PMH1eWKyDuilP0MUe//preview"
+              }
+            },
+            {
+              "id": 2,
+              "title": "Unit 2.1.2: Introduction to Efficient warehouse management",
+              "content": {
+                "video": "https://drive.google.com/file/d/1BHaV7Rw2jkgzLHLuwRlRBH_WzP_UT9IU/preview",
+                "exercise": "https://ee4m-cic.h5p.com/content/1292488199770683787/embed",
+                "textbook": "https://drive.google.com/file/d/1BNf3W_t6k_RBOAv9T0DaUxK1Cb-UrQdh/preview",
+                "slides": "https://docs.google.com/presentation/d/1AKTSlCeXyMhyGYaeGK93989whlRnhpuy/preview",
+                "quiz": "https://quizlet.com/992360264/match/embed?i=13hssg&x=1jj1"
+              }
+            },
+            {
+              "id": 3,
+              "title": "Unit 2.1.3: Case study",
+              "content": {
+                "video": "https://www.youtube.com/embed/nFu4FFgbMY4",
+                "exercise": "https://drive.google.com/file/d/1AahjYQ52uB-BPn8MqebKKDz4pEyAwqLQ/preview"
+              }
+            },
+            {
+              "id": 4,
+              "title": "Unit 2.1.4: Lean Operations",
+              "content": {
+                "video": "https://drive.google.com/file/d/1BR0eXbXHvDDnyPcaxodgpH6qHNvu5ENs/preview",
+                "slides": "https://docs.google.com/presentation/d/1AeLJHGTzNvrG0WZkMGA__YL1nm9zoGLk/preview"
+              }
+            },
+            {
+              "id": 5,
+              "title": "Unit 2.1.5: 5S Methodology",
+              "content": {
+                "video": "https://drive.google.com/file/d/1C0AsR7ymlP-7gbxmrHfSc4NyZeus6pUi/preview",
+                "slides": "https://docs.google.com/presentation/d/1BkUtxHi8fTiXFBMchrIGvRwVhcEg4Ez_/preview"
+              }
+            },
+            {
+              "id": 6,
+              "title": "Unit 2.1.6: Risk management",
+              "content": {
+                "textbook": "https://drive.google.com/file/d/1BKbR0YobzwNJ0H6crbcjFkckL4bfxHOm/preview"
+              }
+            },
+            {
+              "id": 7,
+              "title": "Unit 2.1.7: Defining KPIs",
+              "content": {
+                "slides": "https://docs.google.com/presentation/d/1BHBivJ9nRQo0_V4YcCUvirke_yGcce3w/preview",
+                "video": "https://drive.google.com/file/d/1BImkd4HNHsAuz67w0a-cmaQyh8AcVDv0/preview"
+              }
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Course 2.2: Applied logistics for the supply chain",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 2.2.1: What will you learn?",
+              "content": {
+                "video": "https://drive.google.com/file/d/16wNRR11wTkmrsJQwLlXm1BWz02cKJb_s/preview"
+              }
+            },
+            {
+              "id": 1,
+              "title": "Unit 2.2.2: Supply logistics",
+              "content": {
+                "video": "https://drive.google.com/file/d/1BIKlzxNGsffjkSqn3yb4uwMSlePdJjUi/preview",
+                "textbook": "https://drive.google.com/file/d/1CBN1nTHZVGZDzI5B7xWvg141VJktqmX0/preview",
+                "slides": "https://docs.google.com/presentation/d/1BDg6I5TAkL08DsxGXqqMJ9483MOfP-SB/preview",
+                "exercise": "https://ee4m-cic.h5p.com/content/1292491646923902457/embed"
+              }
+            },
+            {
+              "id": 1,
+              "title": "Unit 2.2.3:Warehousing and transportation logistics",
+              "content": {
+                "textbook": "https://drive.google.com/file/d/16KyZoEuxCTImXFZ9CgGgiRBqfSWZZ-qJ/preview",
+                "video": "https://drive.google.com/file/d/15eCKsXrKxEylEhCkwmgqFScPghsEXWLt/preview",
+                "slides": "https://docs.google.com/presentation/d/1BUsrN4TuKCS_vC0UfrRTX1LCTvxvZJzH/preview",
+                "exercise": "https://ee4m-cic.h5p.com/content/1292493269818705417/embed",
+                "video1": "https://drive.google.com/file/d/15_W46lC6SmvLgTIHSRJ33lrFYOi34BFS/preview",
+                "slides1": "https://docs.google.com/presentation/d/1BXZseWqCAkUYZfUlsz1pyfC_zA_0D8RC/preview",
+                "exercise1": "https://ee4m-cic.h5p.com/content/1292493273701970057/embed",
+                "video2": "https://drive.google.com/file/d/15XvmxhDOtXKfWytWLB6uADAVR_feYVHB/preview",
+                "slides2": "https://docs.google.com/presentation/d/1BZQEkHByVeNC8MFRzM1zrKqxiW-v0oLF/preview",
+                "exercise2": "https://ee4m-cic.h5p.com/content/1292493276872486587/embed",
+                "video3": "https://drive.google.com/file/d/15W4WZQsfFVzUjSbCi1Q4OLAaISIdu2la/preview",
+                "slides3": "https://docs.google.com/presentation/d/1BbsrEznHwlo10QV5xknke-86YwJpc1gU/preview",
+                "video4": "https://drive.google.com/file/d/16889ZCt_BIckGn9ioS7g0PBjmEFuD6mT/preview",
+                "slides4": "https://drive.google.com/file/d/16889ZCt_BIckGn9ioS7g0PBjmEFuD6mT/preview",
+                "video5": "https://drive.google.com/file/d/169d8K2ztcB4blpvyFAAftBZyEGZ8DBaG/preview",
+                "slides5": "https://docs.google.com/presentation/d/1Bfw8l2ePzQLk7apb0hQKcfi3PAl2Cb9e/preview"
+              }
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Course 2.3: Sustainable and digital skills in the supply chain",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 2.3.1: Selects and applies appropriate computer systems",
+              "content": {
+                "video": "https://drive.google.com/file/d/1CiA-nF0qTqPNlf4p9jGw88rzLoCNNzMV/preview",
+                "slides": "https://docs.google.com/presentation/d/1CQBByrhrLAbg1XBxdrPaS-tSqjWfzcV-/preview"
+              }
+            },
+            {
+              "id": 2,
+              "title": "Unit 2.3.2: Transportation Management Systems and Warehouse Management Systems",
+              "content": {
+                "video": "https://drive.google.com/file/d/1CjNukvqfvgNyRDv9XPMdB06b0IV1qPw7/preview",
+                "slides": "https://docs.google.com/presentation/d/1Cdcq9utJdnkT5FWfYAZNlMwd7APlc9jq/preview"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
