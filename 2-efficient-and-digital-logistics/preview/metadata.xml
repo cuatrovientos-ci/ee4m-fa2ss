@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>AF.EE4M.FA2SSSustainableanddigitalskillsinthesupplychain.2f2e7a99-ae47-4160-adf2-e3a3d0d0dd72</entry>
+      <entry>AF.EE4M.FA2SSSustainableanddigitalskillsinthesupplychain.e9ff64ef-88df-4b3f-96ba-94e317688588</entry>
     </identifier>
     <language>en-US</language>
     <contribute>
@@ -24,14 +24,14 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-02-03</dateTime>
-        <description language="en-US"><![CDATA[1738611971803]]></description>
+        <description language="en-US"><![CDATA[1738612432450]]></description>
       </date>
     </contribute>
   </metametadata>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>AF.EE4M.FA2SSSustainableanddigitalskillsinthesupplychain.2f2e7a99-ae47-4160-adf2-e3a3d0d0dd72</entry>
+      <entry>AF.EE4M.FA2SSSustainableanddigitalskillsinthesupplychain.e9ff64ef-88df-4b3f-96ba-94e317688588</entry>
     </identifier>
     <title>
       <string language="en-US"><![CDATA[FA2SS Sustainable and digital skills in the supply chain]]></string>
@@ -78,7 +78,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-02-03</dateTime>
-        <description language="en-US"><![CDATA[1738611971803]]></description>
+        <description language="en-US"><![CDATA[1738612432450]]></description>
       </date>
     </contribute>
     <contribute>
@@ -97,7 +97,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-02-03</dateTime>
-        <description language="en-US"><![CDATA[1738611971803]]></description>
+        <description language="en-US"><![CDATA[1738612432450]]></description>
       </date>
     </contribute>
     <contribute>
@@ -117,7 +117,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-02-03</dateTime>
-        <description language="en-US"><![CDATA[1738611971803]]></description>
+        <description language="en-US"><![CDATA[1738612432450]]></description>
       </date>
     </contribute>
     <contribute>
@@ -136,7 +136,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-02-03</dateTime>
-        <description language="en-US"><![CDATA[1738611971803]]></description>
+        <description language="en-US"><![CDATA[1738612432450]]></description>
       </date>
     </contribute>
   </lifeCycle>
